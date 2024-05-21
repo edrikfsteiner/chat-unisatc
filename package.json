@@ -1,0 +1,11 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "Protótipo de chat como projeto da matéria Front-end UNISATC",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edrik Steiner",
+  "license": "ISC"
+}
