@@ -9,7 +9,7 @@
   align-self: flex-end;
   align-items: end;
   border: 1px solid black;
-  margin: 1% 0 0 80%;
+  margin: 20px 0 0 80%;
   padding: 5px;
   border-radius: 6px;
   max-width: fit-content;
@@ -74,22 +74,6 @@ button {
   margin-right: 10px;
 }
 
-.usr1 {
-  display: flex;
-  justify-content: end;
-  flex-direction: column;
-  align-self: flex-end;
-  align-items: end;
-  border: 1px solid black;
-  margin: 20px  0 0 88%;
-  padding: 5px;
-  border-radius: 6px;
-}
-
-.usr1 h4 {
-  margin: 5px 0;
-}
-
 .atd2 {
   border: 1px solid black;
   margin: 20px 88% 0 0;
@@ -104,6 +88,22 @@ button {
 
 .atd2 p {
   margin-right: 10px;
+}
+
+.usr1 {
+  display: flex;
+  justify-content: end;
+  flex-direction: column;
+  align-self: flex-end;
+  align-items: end;
+  border: 1px solid black;
+  margin: 20px  0 0 88%;
+  padding: 5px;
+  border-radius: 6px;
+}
+
+.usr1 h4 {
+  margin: 5px 0;
 }
 
 .usr2 {
